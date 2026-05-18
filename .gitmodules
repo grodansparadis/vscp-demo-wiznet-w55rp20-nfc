@@ -8,3 +8,6 @@
 [submodule "vscp-firmware"]
 	path = vscp-firmware
 	url = https://github.com/grodansparadis/vscp-firmware.git
+[submodule "firmware/submodules/FreeRTOS-Kernel"]
+	path = firmware/submodules/FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git

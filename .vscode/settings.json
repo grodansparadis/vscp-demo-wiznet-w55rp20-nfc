@@ -1,0 +1,14 @@
+{
+  "chat.tools.terminal.autoApprove": {
+    "test": true,
+    "cmake": true,
+    "/^cd \\.\\./vscp-demo-wiznet-w55rp20-nfc/firmware/build && cmake \\.\\. && make -j\\$\\(nproc\\)$/": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "make": true,
+    "nproc": true,
+    "mkdir": true
+  },
+  "cmake.sourceDirectory": "/home/akhe/development/VSCP/vscp-demo-wiznet-w55rp20-nfc/firmware"
+}
