@@ -5,3 +5,6 @@
 [submodule "firmware/submodules/ioLibrary_Driver"]
 	path = firmware/submodules/ioLibrary_Driver
 	url = https://github.com/Wiznet/ioLibrary_Driver.git
+[submodule "vscp-firmware"]
+	path = vscp-firmware
+	url = https://github.com/grodansparadis/vscp-firmware.git
